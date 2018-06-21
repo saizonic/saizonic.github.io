@@ -6,7 +6,4 @@ I am currently working on a game called Incremedieval, a game about starting as 
 
 Incredmedieval is an incremental game where the player gets to click to perform various tasks and buy upgrades.
 
-```markdown
-Game Features
-
-TBD!
+Game Features TBD!
