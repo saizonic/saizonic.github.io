@@ -8,4 +8,4 @@ Incredmedieval is an incremental game where the player gets to click to perform 
 
 Game Features TBD!
 
-The game can be found [here](https://saizonic.github.io/incremedieval)!
+The game can be found [here](https://saizonic.github.io/incremedieval.html)!
