@@ -7,3 +7,5 @@ I am currently working on a game called Incremedieval, a game about starting as 
 Incredmedieval is an incremental game where the player gets to click to perform various tasks and buy upgrades.
 
 Game Features TBD!
+
+The game can be found [here](https://saizonic.github.io/incremedieval)!
