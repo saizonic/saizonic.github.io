@@ -1,5 +1,4 @@
 theme: jekyll-theme-slate
 title: Saizonic's Game Page
 description: Welcome to Saizonic's Game Page! Home of Incremedieval
-layout: default
 baseurl                  : /saizonic # the subpath of your site, e.g. "/blog"
