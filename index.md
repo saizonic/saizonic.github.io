@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ## Welcome to Saizonic's Game Site!
 
 I am currently working on a game called Incremedieval, a game about starting as a farmer in a medieval kingdom and working their way up to royalty!
