@@ -8,6 +8,8 @@ I am also currently working on a game called Incremedieval, a game about startin
 
 Punch Clicker is a martial arts based incremental game where you as the fighter need to train to become stronger! Implemented features include:
 
+The game can be found [here](https://saizonic.github.io/punchclicker.html)!
+
 ### What is Incremedieval?
 
 Incredmedieval is an incremental game where the player gets to click to perform various tasks and buy upgrades.
