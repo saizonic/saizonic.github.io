@@ -6,14 +6,24 @@ I am also currently working on a game called Incremedieval, a game about startin
 
 ### What is Punch Clicker?
 
-Punch Clicker is a martial arts based incremental game where you as the fighter need to train to become stronger! Implemented features include:
+Punch Clicker is a martial arts based incremental game where you as the fighter need to train to become stronger!
+Implemented features include:
+*   Gain Power by punching the bag or by being AFK!
+*   Click on your master for tips!
+*   Open the skill tree and learn new passive and active abilities!
+*   Activate your active skills to increase your power further!
+*   Move on to the next dojo by breaking the punching bag!
+*   Learn the final skill in the 2nd dojo called Power Up!
+*   Once you are done, Rebirth and do it all again but faster!
 
 The game can be found [here](https://saizonic.github.io/punchclicker.html)!
 
 ### What is Incremedieval?
 
-Incredmedieval is an incremental game where the player gets to click to perform various tasks and buy upgrades.
+Incredmedieval is an incremental game where the player gets to click to perform various tasks and buy upgrades. This game is in very very early stages at the moment but has a working shop system.
 
-Game Features TBD!
+Implemented features include:
+*   Gain gold by farming!
+*   Unlock the shop to purchase new items and upgrades!
 
 The game can be found [here](https://saizonic.github.io/incremedieval.html)!
