@@ -15,6 +15,7 @@ Implemented features include:
 *   Activate your active skills to increase your power further!
 *   Move on to the next dojo by breaking the punching bag!
 *   Learn the final skill in the 2nd dojo called Power Up!
+*   Live Statistics about your gameplay!
 *   Once you are done, Rebirth and do it all again but faster!
 
 The game can be found [here](https://saizonic.github.io/punchclicker.html)!
