@@ -4,6 +4,8 @@ Hello, my name is Steve Dufault and I am a game developer! I have loved games my
 
 I am also currently working on a game called Incremedieval, a game about starting as a farmer in a medieval kingdom and working their way up to royalty across multiple generations!
 
+You can find me on twitter at https://twitter.com/saizonic
+
 ### What is [Punch Clicker](https://saizonic.github.io/punchclicker.html)?
 
 Punch Clicker is a martial arts based incremental game where you as the fighter need to train to become stronger!
